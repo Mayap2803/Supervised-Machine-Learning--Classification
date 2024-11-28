@@ -1,6 +1,7 @@
 ## Supervised-Machine-Learning-Classification
 
-Libraries used: Sklearn, Matplotlib, Scipy, Numpy
+##### Libraries used: 
+Sklearn, Matplotlib, Scipy, Numpy
 
 
 ### Project Aim: 
