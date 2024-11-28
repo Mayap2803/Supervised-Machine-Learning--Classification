@@ -8,7 +8,7 @@ Sklearn, Matplotlib, Scipy, Numpy
 
 We want to train a range of supervised machine learning (ML) algorithms to classify particle events as signal and background events and determine the most suitable algorithm by evaluating their performances. 
 Two datasets, Signal and Background, are provided, each containing 10,000 particle events, with each event corresponding to a correlated 3-dimensional feature vector ($\vec{x}$). 
-The ML classification methods used include: [MLP](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/MLP%20classifier.ipynb), [Linear Classifier](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/Linear_classifier.ipynb), [K-Nearest Neighbours](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/K_Nearest_Neighbour_Classifier.ipynb), [Boosted Decision Tree (Adaboost)]([)](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/Boosted_decision_tree_classifier.ipynb), and [Support Vector Machine (SVC)](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/Support_vector_machine_classifier.ipynb).
+The ML classification methods used include: [MLP](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/MLP%20classifier.ipynb), [Linear Classifier](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/Linear_classifier.ipynb), [K-Nearest Neighbours](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/K_Nearest_Neighbour_Classifier.ipynb), [Boosted Decision Tree (Adaboost)]([)](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/Boosted_decision_tree_classifier.ipynb), and [Support Vector Machine (SVM)](https://github.com/Mayap2803/Supervised-Machine-Learning--Classification/blob/main/Support_vector_machine_classifier.ipynb).
 
 
 
@@ -34,4 +34,4 @@ A histogram was used to illustrate the class separation, between background and 
 
 ### Results:
 
-The top three highest-performing algorithms were MLP with 3 hidden layers, each containing 7 nodes, SVC, and Boosted Decision Tree, with classification accuracies to $3.s.f$ of $0.915$, $0.891$, and $0.904$, respectively. 
+The top three highest-performing algorithms were MLP with 3 hidden layers, each containing 7 nodes, SVM, and Boosted Decision Tree, with classification accuracies to $3.s.f$ of $0.915$, $0.891$, and $0.904$, respectively. 
