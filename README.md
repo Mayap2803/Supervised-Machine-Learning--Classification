@@ -34,4 +34,4 @@ A histogram was used to illustrate the class separation, between background and 
 
 ### Results:
 
-The top three highest-performing algorithms were MLP with 3 hidden layers, each containing 7 nodes, SVC, and Boosted Decision Tree, with classification accuracies of $0.91$, $0.891$, and $0.904$, respectively. 
+The top three highest-performing algorithms were MLP with 3 hidden layers, each containing 7 nodes, SVC, and Boosted Decision Tree, with classification accuracies to $3.s.f$ of $0.915$, $0.891$, and $0.904$, respectively. 
