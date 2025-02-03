@@ -32,7 +32,7 @@ A scatter plot was used to display the background and signal events, shown in re
 A histogram was used to illustrate the class separation, between background and signal events, predicted by the algorithm. The scatter plot and historgram for the MLP classifier are shown below.
 
 <img src="https://github.com/user-attachments/assets/f532cdf2-ba35-42c5-9c49-9eb59266953a" alt="MLP scatterplot" width="500" height="500">
-<img src="https://github.com/user-attachments/assets/8aeb7a40-b424-447c-98ed-2c73fecd5c29" alt="MLP decision function" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/8aeb7a40-b424-447c-98ed-2c73fecd5c29" alt="MLP decision function" width="500" height="370">
 
 
 
