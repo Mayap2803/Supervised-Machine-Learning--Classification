@@ -30,6 +30,8 @@ The 'accuracy_score' function from the 'sklearn.metrics' library was then used t
 As the dataset contains a 3-dimensional feature vector, only the first two features were included in the code to display each algorithm's classification performance on a scatter plot and histogram. 
 A scatter plot was used to display the background and signal events, shown in red and blue, respectively, with the optimal decision boundary, displayed as a black line, used by the trained algorithm to classify the events as either background or signal.
 A histogram was used to illustrate the class separation, between background and signal events, predicted by the algorithm. The scatter plot and historgram for the MLP classifier are shown below.
+<img src="[https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp](https://github.com/user-attachments/assets/f532cdf2-ba35-42c5-9c49-9eb59266953a)" alt="MLP decision function" width="400" height="300">
+
 ![image](https://github.com/user-attachments/assets/f532cdf2-ba35-42c5-9c49-9eb59266953a)
 
 
